@@ -1,4 +1,4 @@
-package com.sf.coffeebean.basics.controlflow;
+package com.sf.griffin.basics.controlflow;
 
 public class Loops {
 

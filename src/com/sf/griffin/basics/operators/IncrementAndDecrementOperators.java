@@ -1,4 +1,4 @@
-package com.sf.coffeebean.basics.operators;
+package com.sf.griffin.basics.operators;
 
 public class IncrementAndDecrementOperators {
 

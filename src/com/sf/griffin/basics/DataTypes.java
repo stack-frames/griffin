@@ -1,4 +1,4 @@
-package com.sf.coffeebean.basics;
+package com.sf.griffin.basics;
 
 /**
  * @Java DataTypes

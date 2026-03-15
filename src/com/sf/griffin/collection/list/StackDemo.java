@@ -1,4 +1,4 @@
-package com.sf.coffeebean.collection.list;
+package com.sf.griffin.collection.list;
 
 import java.util.Stack;
 
