@@ -1,4 +1,4 @@
-package com.sf.coffeebean.basics;
+package com.sf.griffin.basics;
 
 public class HelloWorld {
     public static void main(String[] args) {
